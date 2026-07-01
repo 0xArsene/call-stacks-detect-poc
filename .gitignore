@@ -1,0 +1,30 @@
+# Prerequisites
+*.user
+*.suo
+*.ipch
+*.db
+*.opendb
+
+# Build outputs
+[Xx]64/
+[Dd]ebug/
+[Rr]elease/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.lastbuildstate
+*.unsuccessfulbuild
+*.recipe
+
+# Visual Studio files
+.vs/
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# Generated Dump files
+dump_*.bin
