@@ -13,6 +13,8 @@
 
 不使用[StackWalk64](https://learn.microsoft.com/en-us/windows/win32/api/dbghelp/nf-dbghelp-stackwalk64)，手动进行栈回溯。目的是为了学习`IMAGE_DIRECTORY_ENTRY_EXCEPTION`
 
+> 不支持JIT情况
+
 ![2](img/2.png)
 
 ![3](img/3.png)
